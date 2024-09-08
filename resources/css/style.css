@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+    margin: 20px 0;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: none;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.phone-video {
+    max-width: 300px;
+    height: auto;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    margin: 20px 0;
+}
+
+.description {
+    color: gray;
+    font-size: 21px;
+}
+
+.camping-image {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+.coming-soon {
+    margin-top: 20px;
+}
+
+.phone-icon {
+    width: 50px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    color: gray;
+}
+
+h3 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+    margin: 10px 0;
+}
